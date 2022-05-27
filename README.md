@@ -1,6 +1,6 @@
 # AVX2 Sphere Tracer
 
-Implementation of a sphere tracer implementing various optimizations using AVX2 vector instructions. This is the final project for the "Advanced Systems Lab" at ETH Zurich.
+C implementation of a sphere tracer applying various optimizations using AVX2 vector instructions. This our submission for the final project in the "Advanced Systems Lab" at ETH Zurich.
 
 ![Teaser](graphics/massive_torus_scene.png)
 
